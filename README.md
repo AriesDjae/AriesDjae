@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aries
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
