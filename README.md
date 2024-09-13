@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning Javascript and Go
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ariesdjaenuri24@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
