@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aries
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cyber security and network
 - 🌱 I’m currently learning Javascript and Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ariesdjaenuri24@gmail.com
