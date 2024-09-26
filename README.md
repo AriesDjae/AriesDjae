@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aries
 - 👀 I’m interested in cyber security, network, and machine learning
-- 🌱 I’m currently learning Javascript and Go
+- 🌱 I’m currently learning Javascript, Go and Python
 - 📫 How to reach me ariesdjaenuri24@gmail.com
 - 😄 Pronouns: He/Him
 
