@@ -87,14 +87,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ariesdjae&theme=onedark&no-bg=true&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
