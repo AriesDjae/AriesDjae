@@ -56,7 +56,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" alt="Flask"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg(https://cdn.worldvectorlogo.com/logos/laravel-2.svg)" width="40" alt="Laravel"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" alt="Laravel"/>
 </p>
 
 #### 🤖 AI & Data Science
@@ -89,13 +89,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ariesdjae&theme=onedark&no-bg=true&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
