@@ -56,8 +56,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" alt="Flask"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" alt="Supabase"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" alt="Laravel"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg(https://cdn.worldvectorlogo.com/logos/laravel-2.svg)" width="40" alt="Laravel"/>
 </p>
 
 #### 🤖 AI & Data Science
@@ -75,6 +74,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" alt="Supabase"/>
 </p>
 
 #### ⚙️ DevOps & Tools
