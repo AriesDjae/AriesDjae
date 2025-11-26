@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 👀 I’m interested in **Cyber Security** and **Artificial Intelligence**
+- 👀 I’m interested in **Artificial Intelligence**
 - 🌱 Currently learning: **JavaScript**, **Go**, and **Python**
 - 📫 Reach me at: [ariesdjaenuri24@gmail.com](mailto:ariesdjaenuri24@gmail.com)
 - 😄 Pronouns: **He/Him**
