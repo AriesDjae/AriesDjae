@@ -44,9 +44,7 @@
 #### 🌐 Frontend Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
 #### 🧱 Backend Development
@@ -55,8 +53,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" alt="Express.js"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" alt="Flask"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" alt="Laravel"/>
 </p>
 
 #### 🤖 AI & Data Science
@@ -81,9 +77,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40" alt="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
 </p>
 
