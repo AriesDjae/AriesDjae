@@ -87,7 +87,6 @@
 
 <p align="center">
   <img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=ariesdjae&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img style="margin: 10px;" src="https://streak-stats.demolab.com?user=ariesdjae&theme=github-dark&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
