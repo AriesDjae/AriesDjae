@@ -86,11 +86,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariesdjae&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats-mu-taupe-65.vercel.app/api?username=ariesdjae&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariesdjae&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" width="50%" />
+  <img src="https://github-readme-stats-mu-taupe-65.vercel.app/api/top-langs/?username=ariesdjae&layout=compact&theme=github_dark&hide_border=true" width="50%" />
 </div>
 
 ---
