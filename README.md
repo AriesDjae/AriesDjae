@@ -16,19 +16,6 @@
 
 ---
 
-## 📱 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aries-djaenuri-92942929b" target="_blank">
-    <img style="margin: 5px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32"/>
-  </a>
-  <a href="https://instagram.com/ariesd__" target="_blank">
-    <img style="margin: 5px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32"/>
-  </a>
-</p>
-
----
-
 ## 🧰 Tools & Technologies
 
 ### 👨‍💻 Programming Languages
