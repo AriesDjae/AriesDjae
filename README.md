@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-aries-djaenuri-92942929b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ariesdjaenuri24@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://huggingface.co/AriesDjaenuri" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   <a href="https://vercel.com/ariesdjaes-projects" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/Live_Projects-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <img alt="Location" src="https://img.shields.io/badge/Yogyakarta,_ID-ffffff.svg?&style=for-the-badge&logo=googlemaps&logoColor=black" />
 </p>
